@@ -1,0 +1,16 @@
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\bin\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\bin\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\bin\Debug\DAO.dll
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\bin\Debug\DAO.pdb
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\obj\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BUS\obj\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\DAO.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\DAO.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\obj\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\obj\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\DTO.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BUS\bin\Debug\DTO.pdb
