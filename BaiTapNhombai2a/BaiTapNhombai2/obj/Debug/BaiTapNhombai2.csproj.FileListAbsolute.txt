@@ -1,0 +1,34 @@
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.exe.config
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.exe
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.pdb
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.csprojResolveAssemblyReference.cache
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.fromquanlyhocsinh.resources
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.Properties.Resources.resources
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.csproj.GenerateResource.Cache
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.exe
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.pdb
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.exe.config
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.exe
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.exe
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.csprojResolveAssemblyReference.cache
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.fromquanlyhocsinh.resources
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.Properties.Resources.resources
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.csproj.GenerateResource.Cache
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DAO.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DAO.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.FormGiaoVien.resources
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.frmchinh.resources
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS1.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO1.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DAO1.dll
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BUS1.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO1.pdb
+F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DAO1.pdb

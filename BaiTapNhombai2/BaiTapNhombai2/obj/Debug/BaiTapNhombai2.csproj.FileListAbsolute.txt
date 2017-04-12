@@ -24,3 +24,6 @@ F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\Bai
 F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO.dll
 F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DAO.pdb
 F:\HOCTAP@\ky2nam3\Thực tập nhóm_TH13\thuctapnhombai2\thuctapcarbanword\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\demo\BaiTapNhombai2\BaiTapNhombai2\bin\Debug\BaiTapNhombai2.exe.config
+C:\Users\ADMIN\Desktop\demo\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.exe
+C:\Users\ADMIN\Desktop\demo\BaiTapNhombai2\BaiTapNhombai2\obj\Debug\BaiTapNhombai2.pdb
